@@ -1,5 +1,5 @@
 <?php
-$apikey="rzp_test_p4KZPExcgLZrZX";
+$apikey="";
 session_start();
 include("header.php");
 $id=0;
