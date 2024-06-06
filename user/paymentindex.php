@@ -59,7 +59,7 @@ $price=0;
                data:"amt="+amt+"&name="+name+"&uid="+uid,
                success:function(result){
                    var options = {
-                        "key": "rzp_test_6uFZuHhsNwB5n3", 
+                        "key": "", 
                         "amount": amt*100, 
                         "currency": "INR",
                         "name": "Royal Salon",
